@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Chaqueta de Cuero Vintage",
+    "price": 120.00,
+    "category": "Hombre",
+    "image": "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?q=80&w=1000&auto=format&fit=crop",
+    "description": "Estilo clásico con cuero genuino y forro interior suave. Perfecta para cualquier ocasión."
+  },
+  {
+    "id": 2,
+    "name": "Vestido Floral de Verano",
+    "price": 85.00,
+    "category": "Mujer",
+    "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?q=80&w=1000&auto=format&fit=crop",
+    "description": "Ligero, fresco y elegante. Diseño floral exclusivo con corte midi."
+  },
+  {
+    "id": 3,
+    "name": "Abrigo de Lana Minimalista",
+    "price": 150.00,
+    "category": "Mujer",
+    "image": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?q=80&w=1000&auto=format&fit=crop",
+    "description": "Abrigo largo de lana en tono beige, ideal para la temporada de otoño-invierno."
+  },
+  {
+    "id": 4,
+    "name": "Urban Denim Jacket",
+    "price": 95.00,
+    "category": "Hombre",
+    "image": "https://images.unsplash.com/photo-1495105787522-5334e3ffa0ef?q=80&w=1000&auto=format&fit=crop",
+    "description": "Chaqueta de mezclilla con corte moderno y desgastes artesanales."
+  },
+  {
+    "id": 5,
+    "name": "Blusa de Seda Satinada",
+    "price": 60.00,
+    "category": "Mujer",
+    "image": "https://images.unsplash.com/photo-1564257631407-4deb1f99d992?q=80&w=1000&auto=format&fit=crop",
+    "description": "Elegancia pura. Blusa de seda con caída suave y brillo sutil."
+  },
+  {
+    "id": 6,
+    "name": "Sudadera Streetwear Essential",
+    "price": 75.00,
+    "category": "Hombre",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?q=80&w=1000&auto=format&fit=crop",
+    "description": "Comodidad absoluta. Algodón orgánico de alto gramaje en corte oversized."
+  },
+  {
+    "id": 7,
+    "name": "Pantalón Chino Slim Fit",
+    "price": 55.00,
+    "category": "Hombre",
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?q=80&w=1000&auto=format&fit=crop",
+    "description": "Versatilidad para oficina o salida casual. Ajuste perfecto y tejido elástico."
+  },
+  {
+    "id": 8,
+    "name": "Falda Plisada Metálica",
+    "price": 70.00,
+    "category": "Mujer",
+    "image": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?q=80&w=1000&auto=format&fit=crop",
+    "description": "Un toque moderno y atrevido. Falda midi con acabado metálico brillante."
+  }
+]
