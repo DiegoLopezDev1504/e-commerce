@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/e-commerce/',
+  base: "https://DiegoLopezDev1504.github.io/e-commerce/",
 })
